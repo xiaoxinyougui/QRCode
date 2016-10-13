@@ -1,0 +1,5 @@
+#platform :ios, '7.0'
+target 'QHQQRCode' do
+    pod 'ZXingObjC', '~> 3.1.0'
+pod 'LBXScan', '~> 1.1.1'
+end
